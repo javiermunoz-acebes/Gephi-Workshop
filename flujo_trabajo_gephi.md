@@ -84,5 +84,3 @@ Gephi es una herramienta poderosa para analizar y visualizar redes. Este flujo d
 - **Complementos**: Instala plugins adicionales desde el marketplace de Gephi para extender las capacidades de análisis.
 
 ---
-
-Este flujo de trabajo te permite estructurar tu análisis en Gephi de manera eficiente. Puedes personalizarlo según los objetivos de tu proyecto o los datos disponibles.
