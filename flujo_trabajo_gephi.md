@@ -1,11 +1,3 @@
----
-output: 
-  html_document: 
-    toc: true
-    theme: yeti
-    toc_depth: 5
----
-
 ### Guía de flujo de trabajo en Gephi
 
 Gephi es una herramienta poderosa para analizar y visualizar redes. Este flujo de trabajo te guiará a través de las etapas principales para trabajar eficazmente en Gephi. Puedes adaptarlo según las necesidades de tu proyecto.
